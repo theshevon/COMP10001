@@ -23,3 +23,4 @@ _A collection of resources for students enrolled in COMP10001 - Foundations of C
 * [Python Code Visualiser (Useful for understanding code + debugging)](http://pythontutor.com/visualize.html#mode=edit)
 * [Best Place to Check When You're Facing Coding Difficulties](https://www.google.com/)
 * [2nd Best Place to Check When You're Facing Coding Difficulties](https://stackoverflow.com/)
+* [3rd Best Place to Check When You're Facing Coding Difficulties](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
