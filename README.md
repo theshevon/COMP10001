@@ -1,5 +1,5 @@
 # COMP10001 Resources
-_A collection of resources for students enrolled in COMP10001 - Foundations of Computing at The University of Melbourne_
+_A collection of resources intended for students enrolled in COMP10001 - Foundations of Computing at The University of Melbourne_
 
 ## Contact Details
 * Name: Shevon Mendis
@@ -14,13 +14,13 @@ _A collection of resources for students enrolled in COMP10001 - Foundations of C
 ## Directory Structure
 * **Tutorial Notes & Slides**: Contains the slides that I used for my weekly tutorials as well as summaries of the important content for each week.
 * **Tutorial Sheets**: Contains the problem sheets for each week.
-* **Code**: Contains runnable snippets of code that I used during my tutorials.
 
 **NOTE**: Except for week 2, I will only be pushing notes and selected solutions to this repository at the end of each week.
 
 ## Other Useful Resources:
 * [Python 3.* Documentation](https://docs.python.org/3/library/index.html)
 * [Python Code Visualiser (Useful for understanding code + debugging)](http://pythontutor.com/visualize.html#mode=edit)
+* [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 * [Best Place to Check When You're Facing Coding Difficulties](https://www.google.com/)
 * [2nd Best Place to Check When You're Facing Coding Difficulties](https://stackoverflow.com/)
 * [Project 1 - Sample Solution](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
