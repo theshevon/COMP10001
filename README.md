@@ -5,7 +5,7 @@ _A collection of resources intended for students enrolled in COMP10001 - Foundat
 * Name: Shevon Mendis
 * Email: shevonm@unimelb.edu.au
 * Tutorials: 
-   * 11am, Monday   at Sidney Myer 116
+   * 11am, Monday   at Sidney Myer 117
    * 12pm, Monday   at John Medley G05
    * 11am, Thursday at Sidney Myer 117
    
