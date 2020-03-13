@@ -50,7 +50,7 @@
        * float `4.0 % 3.0 = 1.0`
      * If at least one of the data type of one of the values is a float, then the data type of the result will also be a float<br/><br/>
    * `//`
-     * Used to: divide two numbers and floor (ie. round down) the result)
+     * Used to: divide two numbers and floor (ie. round down) the result
      * Can be used with:
        * int `5 // 3 = 1`
        * float `13.0 // 6.0 = 2.0`
