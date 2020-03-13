@@ -29,7 +29,7 @@
       * Used for: addition
       * Can be used with:
         * int `2 + 2 = 4`
-        * float `4.0 - 3.0 = 1  #quick_maths #sorry_not_sorry`
+        * float `4.0 - 3.0 = 1  #quick_maths`
         * string(concatenation) `"hello " + "world" = "hello world"`
         * bool  `True + True = 2`<br/><br/>
    * `-`
