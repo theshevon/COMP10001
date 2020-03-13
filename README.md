@@ -14,8 +14,7 @@ _A collection of resources intended for students enrolled in COMP10001 - Foundat
 ## Directory Structure
 * **Tutorial Notes & Slides**: Contains the slides that I used for my weekly tutorials as well as summaries of the important content for each week.
 * **Tutorial Sheets**: Contains the problem sheets for each week.
-
-**NOTE**: Except for week 2, I will only be pushing notes and selected solutions to this repository at the end of each week.
+* **Tutorial Solutions**: Contains the solutions for each week's problems. Please read the instructions in the folder to find out how you can access the Jupyter Notebook files. I will only be pushing solutions at the end of the week (Fri, Sat or Sun). Please try the questions for yourself before looking at the solutions I've provided.
 
 ## Other Useful Resources:
 * [Python 3.* Documentation](https://docs.python.org/3/library/index.html)
