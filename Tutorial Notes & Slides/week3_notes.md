@@ -24,7 +24,7 @@
       * `True`, `False`<br/><br/>
 ## Operators
 * **Definition**: A symbol placed between two values that calculates some results<br/><br/>
-* **What does it mean for an operator to be overloaded?**<br />_The operator can work with multiple data types. Its behaviour varies between different data types._<br/><br/>
+* **What does it mean for an operator to be overloaded?**<br />The operator can work with multiple data types. Its behaviour varies between different data types.<br/><br/>
 * **Types of Operators**:<br/><br/>
    * `+`
       * Used for: addition
