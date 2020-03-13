@@ -1,11 +1,11 @@
-# Week 3 Notes
+# Week 3 - Data Types & Operators
 
 ## Data Types
 
 * **Definition:** Classification of data that allows a compiler/ interpreter to determine how to store and process the data, and defines what the programmer can do with it.<br/><br/>
 * **Primitive (ie. Basic) Data Types:**<br/><br/>
    * **int**
-      * Whole numbers 
+      * Whole numbers
       * `1`<br/><br/>
    * **float**
       * Numbers with decimals
@@ -51,7 +51,7 @@
      * Can be used with:
        * int `4 / 2 = 2.0`
        * float `4.0 / 4.0 = 1.0`
-     * The data type of the result with *always* be a float<br/><br/>
+     * The data type of the result with **always** be a float<br/><br/>
    * `%`
      * Used to: calculate modulus, ie. divide two numbers and return the remainder
      * Can be used with:
