@@ -5,7 +5,7 @@
 
 * In order to access these files, you can either:
   * OPTION 1:
-    * Click [here](https://hub.gke.mybinder.org/user/theshevon-comp10001-1vd3ol7d/tree)
+    * Click [here](https://mybinder.org/v2/gh/theshevon/COMP10001/master) (Jupyter Notebook _might_ take a couple of minutes to launch)
     * Click on `Tutorial Solutions`
     * Click on the file corresponding to the desired week
   * OPTION 2:
@@ -19,7 +19,7 @@
     * Press `shift` + `return` (Mac) OR `shift` + `enter` (Win)<br/><br/>
 
 * Feel free to edit the code and run it yourself. (The changes you make will be
-  locally saved and then deleted once you exit your session.)<br/><br/>
+  locally saved and then deleted once you end your session.)<br/><br/>
 
 * For additional info and keyboard shortcuts, click [here](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 
