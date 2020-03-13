@@ -23,7 +23,7 @@
       * A truth value
       * `True`, `False`<br/><br/>
 ## Operators
-* **Definition**: A symbol placed between two values that calculates some results<br/><br/>
+* **Definition**: A symbol placed between two values that calculates something and produces a result<br/><br/>
 * **Types of Operators**:<br/><br/>
    * `+`
       * Used for: addition
