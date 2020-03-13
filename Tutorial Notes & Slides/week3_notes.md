@@ -15,7 +15,7 @@
       * `"High School Musical is a misunderstood franchise."`
       * Can be defined within single('') or double quotes("")
          * If you've defined your string using double quotes, and want to use double quotes within the string itself, ensure that you use the escape(\\) character.
-         `sentence = "In a state of utter frustration, Troy screamed, \"BASKETBALL, OR THEATRE???!!!\""`<br/><br/>
+         `sentence = "In a state of utter frustration, Troy screamed, \"BASKETBALL, OR THEATRE???!!!\""`<br/>
          `# (Try running this on Grok!)`
          *  ↑ Vice versa for strings defined using single quotes
       *  Useful functions: `len()`, `isdigit()`, `isalnum()`, `isupper()`, `islower()`, `print()`, `input()`<br/><br/>
