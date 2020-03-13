@@ -13,8 +13,8 @@
    * **string**
       * A sequence of characters
       * `"High School Musical is a misunderstood franchise."`
-      * Can be defined within single('') or double quotes("")
-         * If you've defined your string using double quotes, and want to use double quotes within the string itself, ensure that you use the escape(\\) character.
+      * Can be defined within single `''` or double quotes `""`
+         * If you've defined your string using double quotes, and want to use double quotes within the string itself, ensure that you use the escape `\` character.<br/>
          `sentence = "In a state of utter frustration, Troy screamed, \"BASKETBALL, OR THEATRE???!!!\""`<br/>
          `# (Try running this on Grok!)`
          *  ↑ Vice versa for strings defined using single quotes
@@ -30,7 +30,7 @@
       * Used for: addition
       * Can be used with:
         * int `2 + 2 = 4`
-        * float `4.0 - 3.0 = 1  #quick_maths_ #sorry_not_sorry`
+        * float `4.0 - 3.0 = 1  #quick_maths #sorry_not_sorry`
         * string(concatenation) `"hello " + "world" = "hello world"`
         * bool  `True + True = 2`<br/><br/>
    * `-`
