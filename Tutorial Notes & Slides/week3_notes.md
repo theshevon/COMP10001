@@ -24,7 +24,6 @@
       * `True`, `False`<br/><br/>
 ## Operators
 * **Definition**: A symbol placed between two values that calculates some results<br/><br/>
-* **What does it mean for an operator to be overloaded?**<br />The operator can work with multiple data types. Its behaviour varies between different data types.<br/><br/>
 * **Types of Operators**:<br/><br/>
    * `+`
       * Used for: addition
@@ -37,6 +36,14 @@
      * Used for: subtraction
      * Can be used with:
        * Same as addition, except for string<br/><br/>
+   * `*`
+     * Used for: multiplication
+     * Can be used with:
+       * int `7 * 4 = 28`
+       * float `12.0 * 4 = 48.0`
+       * bool `True * False = 0`
+     * If at least one of the data type of one of the values is a float, then the data type of the result will also be a float
+     * You can also multiply strings by **int**s: `"ha" * 3 = "hahaha"`<br/><br/>
    * `/`
      * Used for: division
      * Can be used with:
@@ -54,4 +61,6 @@
      * Can be used with:
        * int `5 // 3 = 1`
        * float `13.0 // 6.0 = 2.0`
-     * If at least one of the data type of one of the values is a float, then the data type of the result will also be a float
+     * If at least one of the data type of one of the values is a float, then the data type of the result will also be a float<br/><br/>
+   * Note: You can't mix strings and numeric types for addition and subtraction. Doing so will result in an array.<br/><br/>
+* **What does it mean for an operator to be overloaded?**<br />It means that the operator can work with multiple data types. Its behaviour varies between different data types (eg. With numeric types, `+` results in addition, but with strings, it results in concatentation)
