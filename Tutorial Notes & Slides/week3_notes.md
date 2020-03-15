@@ -64,4 +64,10 @@
        * int `5 // 3 = 1`
        * float `13.0 // 6.0 = 2.0`
      * If at least one of the data type of one of the values is a float, then the data type of the result will also be a float<br/><br/>
+   * `**`
+     * Used for: exponentiation
+     * Can be used with:
+       * int `5 ** 3 = 125`
+       * float `5.2 ** 2.3 = 44.34122533787991`
+     * If at least one of the data type of one of the values is a float, then the data type of the result will also be a float<br/><br/>
 * **What does it mean for an operator to be overloaded?**<br />It means that the operator can work with multiple data types. Its behaviour varies between different data types (eg. With numeric types, `+` results in addition, but with strings, it results in concatentation)
