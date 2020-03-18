@@ -22,4 +22,4 @@ _A collection of resources intended for students enrolled in COMP10001 - Foundat
 * [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 * [Best Place to Check When You're Facing Coding Difficulties](https://www.google.com/)
 * [2nd Best Place to Check When You're Facing Coding Difficulties](https://stackoverflow.com/)
-* [Project 1 - Sample Solution](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Project 1 Specification](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
