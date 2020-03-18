@@ -5,7 +5,7 @@ _A collection of resources intended for students enrolled in COMP10001 - Foundat
 * Name: [Shevon Mendis](https://www.linkedin.com/in/mendiss/)
 * Email: shevonm@unimelb.edu.au
    * Please ensure that you email me from your student email addresses.
-   * As much as I do enjoy receiving them, if you're sending me memes, **please** add the "MEME" to the subject so I can filter them out from genuine queries.
+   * As much as I do enjoy receiving them, if you're sending me memes, **please** add "MEME" to the subject so I can filter them out from genuine queries.
 * Tutorials: 
    * 11am, Monday   at Sidney Myer 117 \[[Zoom Link](https://unimelb.zoom.us/j/809749688)\]
    * 12pm, Monday   at John Medley G05 \[[Zoom Link](https://unimelb.zoom.us/j/396012212)\]
